@@ -6,6 +6,21 @@ import RevealOnView from "./RevealOnView";
 /* ─── Retro / vintage color palette ─── */
 const posters = [
   {
+    id: 8,
+    stat: "🥇",
+    statLabel: "1ST PLACE · 50 TEAMS",
+    headline: "★ CHAMPION ★",
+    title: "COLUMBIA\nHACK 2026",
+    tagline: "Columbia Get Hired Hack 2026",
+    detail: "Took 1st place out of 50 teams at Columbia University's Get Hired Hackathon",
+    footer: "COLUMBIA UNIVERSITY · NEW YORK, NY · 2026",
+    bg: "#0a1406",
+    border: "#4a8a1e",
+    accent: "#7ad83a",
+    text: "#e0f5d0",
+    rosette: "#4a8a1e",
+  },
+  {
     id: 1,
     stat: "🥇",
     statLabel: "1ST PLACE · 450+ PARTICIPANTS",

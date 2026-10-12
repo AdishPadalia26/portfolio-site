@@ -58,7 +58,7 @@ const AnimatedCounter = ({ target, suffix = "", duration = 2000 }) => {
 /* ─── Stats Data ─── */
 const stats = [
   { label: "Publications", value: 3, suffix: "", icon: ArticleIcon, color: "#e879f9" },
-  { label: "Hackathon Wins", value: 1, suffix: "st", icon: EmojiEventsIcon, color: "#f6bb48" },
+  { label: "Hackathon Wins", value: 3, suffix: "", icon: EmojiEventsIcon, color: "#f6bb48" },
   { label: "Students Mentored", value: 200, suffix: "+", icon: GroupsIcon, color: "#0db8ef" },
   { label: "Research Accuracy", value: 99, suffix: "%", icon: ScienceIcon, color: "#4ade80" },
 ];
@@ -396,7 +396,7 @@ const About = () => {
                 }}
               >
                 When I'm not coding, you'll find me exploring emerging AI research, competing in hackathons (
-                <Box component="span" sx={{ color: "#f6bb48" }}>HackRU 2025 Champion 🏆</Box>
+                <Box component="span" sx={{ color: "#f6bb48" }}>Columbia Get Hired Hack 2026 & HackRU 2025 Champion 🏆</Box>
                 ), or contributing to open-source projects. I'm actively exploring 2026 full-time roles in Agentic AI, Machine Learning Engineering, Software Engineering and Data Science.
               </Typography>
             </Box>
